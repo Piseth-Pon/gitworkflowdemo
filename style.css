@@ -10,3 +10,7 @@ body {
   color: whitesmoke;
 }
 
+.title {
+  text-align: center;
+  font-size: 32px;
+}
